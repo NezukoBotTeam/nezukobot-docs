@@ -1,7 +1,11 @@
-# Chính sách bảo mật NezukoBot
+*****
+Chính sách bảo mật NezukoBot
+*****
 Chính sách bảo mật thông tin cá nhân này áp dụng đối với Discord Bot, trang web của NezukoBot có tham chiếu đến hoặc liên kết đến Chính sách bảo mật thông tin cá nhân (gọi chung là “Dịch vụ”).
 Quan trọng là bạn cần thường xuyên kiểm tra lại để xem các bản cập nhật về Chính sách bảo mật. Chúng tôi có thể cập nhật định kỳ Chính sách bảo mật này để phản ánh những thay đổi trong cách chúng tôi xử lý thông tin cá nhân liên quan đến Dịch vụ hoặc những thay đổi trong luật hiện hành. Chúng tôi sẽ đăng thông báo trên trang web của chúng tôi để thông báo trước cho bạn về những thay đổi quan trọng trong Chính sách bảo mật và chỉ rõ ở phần đầu của Chính sách bảo mật thời điểm cập nhật gần đây nhất. Phiên bản mới nhất của Chính sách bảo mật sẽ luôn có sẵn ở [đây](https://github.com/NezukoBotTeam/nezukobot-faqs/blob/main/PRIVACY-POLICY.md).
-## Danh sách
+########
+Danh sách
+########
 - [Privacy Policy](#)
 - [Chúng tôi thu thập thông tin gì?](#chúng-tôi-thu-thập-thông-tin-gì)
 - [Chúng tôi sử dụng thông tin của bạn như thế nào?](#chúng-tôi-sử-dụng-thông-tin-của-bạn-như-thế-nào)
